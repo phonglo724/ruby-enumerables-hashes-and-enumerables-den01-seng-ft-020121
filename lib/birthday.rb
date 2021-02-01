@@ -11,6 +11,8 @@ end
 birthday_kids
 end
 
+#or
+
 def happy_birthday(kids)
   kids.each do |key, value|
     puts "Happy Birthday #{key}! You are now #{value} years old!"
